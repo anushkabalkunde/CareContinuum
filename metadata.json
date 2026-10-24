@@ -1,0 +1,9 @@
+{
+  "name": "CareContinuum",
+  "description": "Smart Medicine Aid Box companion app with Netflix-style family joint accounts, inventory tracking, camera/OCR scanning, routine reminders, and caregiver monitoring.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
